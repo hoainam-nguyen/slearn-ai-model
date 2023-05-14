@@ -1,1 +1,1 @@
-# slearn-ai-model
+# slearn-oraichain

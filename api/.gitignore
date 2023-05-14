@@ -1,0 +1,12 @@
+/src/scripts/
+ode_modules/ 
+package-lock.json
+package.json
+test.js
+test.py
+data/
+db/
+node_modules/
+logs/
+storage/
+.vscode/

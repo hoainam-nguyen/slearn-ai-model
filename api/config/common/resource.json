@@ -1,0 +1,38 @@
+{
+    "fastapi_app": {
+        "method": "fastapi_app",
+        "args": {}
+    },
+    "bot_summarize": {
+        "method": "load_bot_summarize",
+        "args": {}
+    },
+    "bot_chat": {
+        "method": "load_bot_chat",
+        "args": {}
+    },
+    "bot_slearn": {
+        "method": "load_bot_slearn",
+        "args": {}
+    },
+    "bot_default": {
+        "method": "load_bot_default",
+        "args": {}
+    } ,
+    "bot_realtime": {
+        "method": "load_bot_realtime",
+        "args": {}
+    },
+    "bot_oraichain": {
+        "method": "load_bot_oraichain",
+        "args": {}
+    },    
+    "course_blockchain": {
+        "method": "load_bot_course_blockchain",
+        "args": {}
+    },
+    "checkcomment": {
+        "method": "load_bot_checkcomment",
+        "args": {}
+    }         
+}
